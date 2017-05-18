@@ -1,0 +1,23 @@
+{
+  "name": "iac-telnet",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitNetwork/iac-telnet.git"
+  },
+  "keywords": [
+    "iac",
+    "telnet"
+  ],
+  "author": "Bit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitNetwork/iac-telnet/issues"
+  },
+  "homepage": "https://github.com/BitNetwork/iac-telnet#readme"
+}
